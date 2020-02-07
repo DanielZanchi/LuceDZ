@@ -3,56 +3,56 @@
       "sales_assistant": {
         "name": "Giulia",
         "surname": "Barbieri",
-        "id" : 434543
+        "id" : "434543"
       }
     },
     {
       "sales_assistant": {
         "name": "Lucrezia",
         "surname": "Carri",
-        "id" : 321312
+        "id" : "321312"
       }
     },{
       "sales_assistant": {
         "name": "Gianni",
         "surname": "Tosi",
-        "id" : 321312
+        "id" : "321312"
       }
     },{
       "sales_assistant": {
         "name": "Alessio",
         "surname": "Berdicchia",
-        "id" : 232111
+        "id" : "232111"
       }
     },{
       "sales_assistant": {
         "name": "Sergio",
         "surname": "Ciulla",
-        "id" : 43452312
+        "id" : "43452312"
       }
     },{
       "sales_assistant": {
         "name": "Daniel",
         "surname": "Zanchi",
-        "id" : 12345
+        "id" : "12345"
       }
     },{
       "sales_assistant": {
         "name": "Lorenzo",
         "surname": "Cuccaro",
-        "id" : 43431231
+        "id" : "43431231"
       }
     },{
       "sales_assistant": {
         "name": "Riccardo",
         "surname": "Reni",
-        "id" : 12314
+        "id" : "12314"
       }
     },{
       "sales_assistant": {
         "name": "Sara",
         "surname": "Salvi",
-        "id" : 431223
+        "id" : "431223"
       }
     }
   ]
