@@ -1,0 +1,49 @@
+{
+  "Sales Assistants": [{
+      "Sale Assistant": {
+        "Name": "Giulia",
+        "Surname": "Barbieri"
+      }
+    },
+    {
+      "Sale Assistant": {
+        "Name": "Lucrezia",
+        "Surname": "Carri"
+      }
+    },{
+      "Sale Assistant": {
+        "Name": "Gianni",
+        "Surname": "Tosi"
+      }
+    },{
+      "Sale Assistant": {
+        "Name": "Alessio",
+        "Surname": "Berdicchia"
+      }
+    },{
+      "Sale Assistant": {
+        "Name": "Sergio",
+        "Surname": "Ciulla"
+      }
+    },{
+      "Sale Assistant": {
+        "Name": "Daniel",
+        "Surname": "Zanchi"
+      }
+    },{
+      "Sale Assistant": {
+        "Name": "Lorenzo",
+        "Surname": "Cuccaro"
+      }
+    },{
+      "Sale Assistant": {
+        "Name": "Riccardo",
+        "Surname": "Reni"
+      }
+    },{
+      "Sale Assistant": {
+        "Name": "Sara",
+        "Surname": "Salvi"
+      }
+    }
+  ]
