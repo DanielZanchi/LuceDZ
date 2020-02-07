@@ -11,6 +11,8 @@ import UIKit
 class ViewController: UIViewController {
 
     @IBOutlet var requestButton: UIButton!
+        
+    var currentUserID = "12345"
     
     override func viewDidLoad() {
         super.viewDidLoad()
@@ -21,6 +23,11 @@ class ViewController: UIViewController {
         
         requestButton.layer.cornerRadius = 12
         requestButton.clipsToBounds = true
+    }
+    
+    override func prepare(for segue: UIStoryboardSegue, sender: Any?) {
+        let vc = segue.destination as? RequestViewController
+        vc?.currentUserID = currentUserID
     }
 
 

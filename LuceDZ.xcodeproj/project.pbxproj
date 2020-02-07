@@ -15,6 +15,7 @@
 		762AC56A23ED558F00DE0497 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 762AC56823ED558F00DE0497 /* LaunchScreen.storyboard */; };
 		762AC57223ED57A400DE0497 /* RequestViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 762AC57123ED57A400DE0497 /* RequestViewController.swift */; };
 		762AC57423ED583E00DE0497 /* SAJsonManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 762AC57323ED583E00DE0497 /* SAJsonManager.swift */; };
+		76CA0EA023EE2960006B80FD /* RequestVC+Pickers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 76CA0E9F23EE2960006B80FD /* RequestVC+Pickers.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		762AC56B23ED558F00DE0497 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		762AC57123ED57A400DE0497 /* RequestViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RequestViewController.swift; sourceTree = "<group>"; };
 		762AC57323ED583E00DE0497 /* SAJsonManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SAJsonManager.swift; sourceTree = "<group>"; };
+		76CA0E9F23EE2960006B80FD /* RequestVC+Pickers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "RequestVC+Pickers.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -64,6 +66,7 @@
 				762AC55F23ED558900DE0497 /* SceneDelegate.swift */,
 				762AC56123ED558900DE0497 /* ViewController.swift */,
 				762AC57123ED57A400DE0497 /* RequestViewController.swift */,
+				76CA0E9F23EE2960006B80FD /* RequestVC+Pickers.swift */,
 				762AC57323ED583E00DE0497 /* SAJsonManager.swift */,
 				762AC56323ED558900DE0497 /* Main.storyboard */,
 				762AC56623ED558F00DE0497 /* Assets.xcassets */,
@@ -146,6 +149,7 @@
 			files = (
 				762AC56223ED558900DE0497 /* ViewController.swift in Sources */,
 				762AC55E23ED558900DE0497 /* AppDelegate.swift in Sources */,
+				76CA0EA023EE2960006B80FD /* RequestVC+Pickers.swift in Sources */,
 				762AC57423ED583E00DE0497 /* SAJsonManager.swift in Sources */,
 				762AC57223ED57A400DE0497 /* RequestViewController.swift in Sources */,
 				762AC56023ED558900DE0497 /* SceneDelegate.swift in Sources */,
