@@ -1,49 +1,59 @@
 {
-  "Sales Assistants": [{
-      "Sale Assistant": {
-        "Name": "Giulia",
-        "Surname": "Barbieri"
+  "sales_assistants": [{
+      "sales_assistant": {
+        "name": "Giulia",
+        "surname": "Barbieri",
+        "id" : "434543"
       }
     },
     {
-      "Sale Assistant": {
-        "Name": "Lucrezia",
-        "Surname": "Carri"
+      "sales_assistant": {
+        "name": "Lucrezia",
+        "surname": "Carri",
+        "id" : "321312"
       }
     },{
-      "Sale Assistant": {
-        "Name": "Gianni",
-        "Surname": "Tosi"
+      "sales_assistant": {
+        "name": "Gianni",
+        "surname": "Tosi",
+        "id" : "321312"
       }
     },{
-      "Sale Assistant": {
-        "Name": "Alessio",
-        "Surname": "Berdicchia"
+      "sales_assistant": {
+        "name": "Alessio",
+        "surname": "Berdicchia",
+        "id" : "232111"
       }
     },{
-      "Sale Assistant": {
-        "Name": "Sergio",
-        "Surname": "Ciulla"
+      "sales_assistant": {
+        "name": "Sergio",
+        "surname": "Ciulla",
+        "id" : "43452312"
       }
     },{
-      "Sale Assistant": {
-        "Name": "Daniel",
-        "Surname": "Zanchi"
+      "sales_assistant": {
+        "name": "Daniel",
+        "surname": "Zanchi",
+        "id" : "12345"
       }
     },{
-      "Sale Assistant": {
-        "Name": "Lorenzo",
-        "Surname": "Cuccaro"
+      "sales_assistant": {
+        "name": "Lorenzo",
+        "surname": "Cuccaro",
+        "id" : "43431231"
       }
     },{
-      "Sale Assistant": {
-        "Name": "Riccardo",
-        "Surname": "Reni"
+      "sales_assistant": {
+        "name": "Riccardo",
+        "surname": "Reni",
+        "id" : "12314"
       }
     },{
-      "Sale Assistant": {
-        "Name": "Sara",
-        "Surname": "Salvi"
+      "sales_assistant": {
+        "name": "Sara",
+        "surname": "Salvi",
+        "id" : "431223"
       }
     }
   ]
+}
